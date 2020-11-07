@@ -1,0 +1,17 @@
+<div className="col-lg-4 col-md-6 portfolio-item filter-app">
+<div className="portfolio-img"><img src="assets/img/portfolio/portfolio-3.jpg" className="img-fluid" alt=""></img></div>
+<div className="portfolio-info">
+  <h4>App 1</h4>
+  <p>App</p>
+  <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" className="venobox preview-link" title="App 1"><i className="bx bx-plus"></i></a>
+  <a href="portfolio-details.html" className="details-link" title="More Details"><i className="bx bx-link"></i></a>
+</div>
+</div>
+
+<div className="portfolio-detail">
+          <div className="portfolio-heading-detail"><a>Let Go of Anxiety & Stress: Hypnosis Relaxation</a></div>
+          <div className="portfolio-time-detail">Sat, Nov 7, 2020 7:00AM (IST)</div>
+          <div className="portfolio-host-detail">
+          </div>
+          <div className="portfolio-sellingoutstatus-detail">Selling Out Soon</div>
+        </div>
